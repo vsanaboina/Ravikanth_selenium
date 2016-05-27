@@ -6,7 +6,7 @@ package com.Abstractclass;
 	public abstract void getmoney();
 	
 	public void samll(){
-		System.out.println("small 1");
+		System.out.println("small 23");
 	}
 	}
 
